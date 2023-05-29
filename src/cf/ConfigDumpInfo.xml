@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Catalog.Контрагенты" id="d8aa6d71-3954-4c4e-817e-f68a5380be85" configVersion="51bfa761f9bc6b4785425ec01d40335f00000000"/>
+		<Metadata name="Catalog.Номенклатура" id="4d74eb63-979d-4535-8bc9-2588ab2d9b72" configVersion="8415905a15fa954ca6842d7de6d383fe00000000"/>
+		<Metadata name="Catalog.Склады" id="60091aef-a558-44e2-b41f-5d2d23d176df" configVersion="84754faaf8c41f49aba6d0d1c5418c9600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="68bc8190-8471-459a-985d-1e8b97a4ce70" configVersion="d40f0386bfd17c4caeddbd4ce08f148200000000"/>
+		<Metadata name="Language.Русский" id="edcff815-2b24-4ba1-ad6b-07df428d78c2" configVersion="446df0730c8b09488bd9a7acaddbfef100000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
