@@ -1,1 +1,1 @@
-C:\sonar-scanner-4.8.0.2856-windows\sonar-scanner.bat -D"sonar.login=1952877e4d61d69c766eb8d9ca1d39ac48a4254f"
+C:\sonar-scanner-4.8.0.2856-windows\bin\sonar-scanner.bat -D"sonar.login=sqa_04c5b64568039ecfe73e009e7bdd465828b4d522"
