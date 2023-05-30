@@ -213,6 +213,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Document>ПриходнаяНакладная</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

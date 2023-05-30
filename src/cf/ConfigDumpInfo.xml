@@ -4,7 +4,16 @@
 		<Metadata name="Catalog.Контрагенты" id="d8aa6d71-3954-4c4e-817e-f68a5380be85" configVersion="51bfa761f9bc6b4785425ec01d40335f00000000"/>
 		<Metadata name="Catalog.Номенклатура" id="4d74eb63-979d-4535-8bc9-2588ab2d9b72" configVersion="8415905a15fa954ca6842d7de6d383fe00000000"/>
 		<Metadata name="Catalog.Склады" id="60091aef-a558-44e2-b41f-5d2d23d176df" configVersion="84754faaf8c41f49aba6d0d1c5418c9600000000"/>
-		<Metadata name="Configuration.Конфигурация" id="68bc8190-8471-459a-985d-1e8b97a4ce70" configVersion="d40f0386bfd17c4caeddbd4ce08f148200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="68bc8190-8471-459a-985d-1e8b97a4ce70" configVersion="8590a6ee69946c43acb32ed93efae88c00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="56f4d796-55de-4bf3-b342-ed0ef1f3412e" configVersion="f1d1e2c2fa3dd940a751b1b0bc0ab8fe00000000">
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары" id="2d6437b4-0528-4b4a-ae54-3ad96cc2c15e"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Сумма" id="792a6225-1cdc-44ac-a565-d814572d0ec8"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Номенклатура" id="dbb00b86-23f0-48b6-afdb-9e8d67e352c9"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="e4241ccb-de3c-4798-9bde-6bd3332b20a3"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Товары.Attribute.Цена" id="ffc9c647-eb3f-48ab-bfca-bf4ba52e4ed0"/>
+		</Metadata>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента" id="afdfb615-2883-49b8-b1c0-8b1db31714e9" configVersion="b9ff034d74909841b3e68eda0f17802a00000000"/>
+		<Metadata name="Document.ПриходнаяНакладная.Form.ФормаДокумента.Form" id="afdfb615-2883-49b8-b1c0-8b1db31714e9.0" configVersion="14c78cf77b8c8f479dce662b0ee54f9100000000"/>
 		<Metadata name="Language.Русский" id="edcff815-2b24-4ba1-ad6b-07df428d78c2" configVersion="446df0730c8b09488bd9a7acaddbfef100000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
